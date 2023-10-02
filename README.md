@@ -1,3 +1,12 @@
 # Vick-Ferreira-ExerciciosEntrega-Faculdade.kt
 
-App desenvolvido com o intuito de demonstrar o uso do RecyclerView. Contém um EditText e um botão para edição. Ao clicar, é possível editar e usar um diálogo para a edição. Além disso, ao fazer a edição, a lista é atualizada de forma mutável.
+Funcionalidades:
+
+Um EditText para inserção de uma string.
+Um botão para adicionar a string inserida ao RecyclerView.
+Um RecyclerView que exibe a lista de strings adicionadas.
+Dinâmica de Atualização:
+
+Quando o usuário insere uma string no EditText e clica no botão, essa string é adicionada à lista.
+O RecyclerView é atualizado automaticamente para mostrar o novo item.
+Cada item na lista do RecyclerView exibe a string inserida pelo usuário."
