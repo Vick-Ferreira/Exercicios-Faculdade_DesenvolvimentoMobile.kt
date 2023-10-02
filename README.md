@@ -1,5 +1,5 @@
 # Vick-Ferreira-ExerciciosEntrega-Faculdade.kt
-"Tela de login:
+Tela de login:
 
 Campos para inserção de nome de usuário e senha.
 Botão para efetuar login.
