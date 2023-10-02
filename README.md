@@ -1,7 +1,7 @@
 # Vick-Ferreira-ExerciciosEntrega-Faculdade.kt
 Este aplicativo foi desenvolvido para demonstrar a navegação entre atividades, utilizando uma Tela de Login que inclui:
 
-Campos para inserção de nome de usuário e senha (a senha é fixa no código).
+Campos para inserção de nome de usuário e senha (a senha é fixa no código - 123456).
 Um botão para efetuar o login.
 Após o login bem-sucedido, o aplicativo apresenta a Tela Home (Logada), que oferece uma apresentação simples informando que o usuário está logado.
 
