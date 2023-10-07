@@ -1,12 +1,11 @@
-# Vick-Ferreira-ExerciciosEntrega-Faculdade.kt
-Este aplicativo foi desenvolvido para demonstrar a navegação entre atividades, utilizando uma Tela de Login que inclui:
+O aplicativo foi desenvolvido como atividade complementar da diciplica de aplicativos moveis da Universidade,tem o propósito de demonstrar a navegação entre atividades em um aplicativo Android nativo. Ele apresenta uma tela de login que inclui os seguintes elementos:
 
-Campos para inserção de nome de usuário e senha (a senha é fixa no código - 123456).
-Um botão para efetuar o login.
-Após o login bem-sucedido, o aplicativo apresenta a Tela Home (Logada), que oferece uma apresentação simples informando que o usuário está logado.
+Campos para a inserção do nome de usuário e senha (sendo a senha fixa no código como "123456").
+Um botão que permite ao usuário efetuar o login.
+Após um login bem-sucedido, o aplicativo direciona o usuário para a tela principal, conhecida como "Tela Home (Logada)". Nesta tela, uma mensagem simples é exibida para informar que o usuário está logado.
 
-Além disso, foram implementadas as seguintes funcionalidades:
+O aplicativo também possui as seguintes funcionalidades:
 
-Ciclo de vida: Quando o usuário volta para a tela de login após estar na tela home, a aplicação não deve mostrar informações de login.
+Gerenciamento de ciclo de vida: Quando o usuário retorna à tela de login após estar na tela home, o aplicativo não exibe informações de login novamente.
 
-Interface responsiva: Ambas as telas foram projetadas para serem apresentáveis em diferentes tamanhos de tela e orientações (retrato e paisagem).
+Design responsivo: Ambas as telas do aplicativo foram cuidadosamente projetadas para se adaptarem a diferentes tamanhos de tela e orientações, garantindo uma experiência consistente para os usuários, tanto no modo retrato quanto no modo paisagem.
